@@ -5,3 +5,7 @@
 Люблю risk of rain 2, the binding of isaac, ultrakill и другие игры
 
 Умею немного писать на C++, С#, Java, Javascript
+
+Контакты:
+Телефон: +888 888 888 888
+Почта: nastanislau001@gmail.com
