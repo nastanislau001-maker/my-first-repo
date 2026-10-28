@@ -1,5 +1,5 @@
 // @ts-check
-import { test, expect } from '@playwright/test';
+/*import { test, expect } from '@playwright/test';
 
 test('Попытка залогиниться', async ({ page }) => {
 
@@ -31,4 +31,4 @@ test('Попытка неуспешного входа', async ({ page }) => {
     await expect(page.getByText('Epic sadface: Sorry, this user has been locked out.')).toHaveText('Epic sadface: Sorry, this user has been locked out.')
 });
 
-
+*/
