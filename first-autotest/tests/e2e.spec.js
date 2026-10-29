@@ -55,7 +55,7 @@ test('E2E тест', async ({ page }) => {
 
     await cart.goToCheckout();
 
-    await checkoutStepOne.fillUserInfo('Иван', 'Иванов', '123456');
+    await checkoutStepOne.fillUserInfo('Test', 'User', '12345');
 
     await checkoutStepTwo.finishCheckout();
     
